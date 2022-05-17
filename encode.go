@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"strings"
 
-	vegeta "github.com/tsenart/vegeta/v12/lib"
+	vegeta "github.com/innius/vegeta/v12/lib"
 )
 
 const (

@@ -1,3 +1,4 @@
+//go:build ignore
 // +build ignore
 
 package main
@@ -5,8 +6,8 @@ package main
 import (
 	"log"
 
+	"github.com/innius/vegeta/v12/lib/plot"
 	"github.com/shurcooL/vfsgen"
-	"github.com/tsenart/vegeta/v12/lib/plot"
 )
 
 func main() {
